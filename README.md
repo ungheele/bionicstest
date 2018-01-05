@@ -9,3 +9,4 @@ does it automatic
 you changed something
 rebase upstream
 now fork_4 is the main
+NOW WHAT HAAPENDS IF I CHANGE FORK4
